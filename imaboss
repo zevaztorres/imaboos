@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuidado de los Perritos</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Cuidado de los Perritos</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#alimentacion">Alimentación</a></li>
+                    <li><a href="#ejercicio">Ejercicio</a></li>
+                    <li><a href="#salud">Salud</a></li>
+                    <li><a href="#consejos">Consejos</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="container">
+                <h2>Bienvenido al sitio de Cuidado de los Perritos</h2>
+                <p>Tu guía completa para mantener a tu perrito feliz y saludable.</p>
+            </div>
+        </section>
+
+        <div class="container">
+            <section id="alimentacion" class="info-section">
+                <h2>Alimentación</h2>
+                <p>La alimentación adecuada es fundamental para la salud de tu perrito. Asegúrate de proporcionarle una dieta equilibrada que incluya proteínas, carbohidratos, grasas, vitaminas y minerales. Consulta a tu veterinario para determinar la mejor dieta para tu perrito según su edad, tamaño y nivel de actividad.</p>
+            </section>
+
+            <section id="ejercicio" class="info-section">
+                <h2>Ejercicio</h2>
+                <p>El ejercicio regular es esencial para mantener a tu perrito en forma y prevenir problemas de comportamiento. Los perritos necesitan diferentes niveles de actividad según su raza y edad. Paseos diarios, juegos y actividades como correr o nadar pueden ayudar a mantener a tu perrito activo y feliz.</p>
+            </section>
+
+            <section id="salud" class="info-section">
+                <h2>Salud</h2>
+                <p>Las visitas regulares al veterinario son importantes para prevenir y detectar problemas de salud a tiempo. Mantén al día las vacunas y tratamientos antiparasitarios de tu perrito. Observa cualquier cambio en su comportamiento o apariencia y consulta al veterinario si tienes alguna preocupación.</p>
+            </section>
+
+            <section id="consejos" class="info-section">
+                <h2>Consejos</h2>
+                <ul>
+                    <li>Proporciona agua fresca y limpia siempre.</li>
+                    <li>Mantén una rutina de aseo regular para evitar problemas de piel y pelaje.</li>
+                    <li>Entrena a tu perrito con refuerzos positivos.</li>
+                    <li>Proporciona juguetes y actividades para estimular su mente.</li>
+                    <li>Brinda mucho amor y atención a tu perrito.</li>
+                </ul>
+            </section>
+        </div>
+    </main>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2024 Cuidado de los Perritos. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+</body>
+</html>
